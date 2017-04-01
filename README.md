@@ -1,2 +1,2 @@
-# im-sba
-initial margin model by sensitivity based approach
+# sba
+sensitivity based approach
